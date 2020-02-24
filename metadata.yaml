@@ -1,7 +1,10 @@
 _repo: Ancient-legends-Mystic-Charms-Superstitions-of-Ireland-With-sketches-of-the-Irish-past_61436
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: "Ancient legends, Mystic Charms and Superstitions of Ireland\r\n\
   With sketches of the Irish past"
+covers:
+- cover_type: archival
+  image_path: 61436-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilde, Lady
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51427
     wikipedia: https://en.wikipedia.org/wiki/Jane_Wilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61436#Ancient-legends-Mystic-Charms-Superstitions-of-Ireland-With-sketches-of-the-Irish-past
 gutenberg_issued: '2020-02-18'
 gutenberg_type: Text
 identifiers:
